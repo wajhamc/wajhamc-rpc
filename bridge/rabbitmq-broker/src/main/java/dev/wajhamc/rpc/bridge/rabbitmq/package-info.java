@@ -1,0 +1,1 @@
+package dev.wajhamc.rpc.bridge.rabbitmq;
